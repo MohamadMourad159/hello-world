@@ -1,1 +1,1 @@
-i am using github to learn moremabout programing.
+i am using github to learn more about programing.
